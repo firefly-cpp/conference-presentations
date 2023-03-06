@@ -1,4 +1,4 @@
-#presentations
+# presentations
 
 Fister Jr, I., Podgorelec, V., & Fister, I. (2021). Improved nature-inspired algorithms for numeric association rule mining. In Intelligent Computing and Optimization: Proceedings of the 3rd International Conference on Intelligent Computing and Optimization 2020 (ICO 2020) (pp. 187-195). Springer International Publishing.
 
