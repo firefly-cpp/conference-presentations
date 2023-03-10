@@ -8,7 +8,9 @@ Vrbančič, G., Podgorelec, V., Salcedo-Sanz, S., & Fister, I. (2022). [Profilin
 
 Fister Jr, I., Fister, D., Mlakar, U., Ljubič, K., Brest, J., & Fister, I. (2014). [Netopirji, kresnice in kukavice pri obdelavi slik](https://github.com/firefly-cpp/conference-presentations/blob/main/ROSUS_2014.pdf). ROSUS 2014.
 
+
 # Generated Thumbnails
+[![ROSUS_2014](/image_thumbnails/pdf_animation_ROSUS_2014.gif)](ROSUS_2014.pdf)
 [![ISMSI21_Iztok](/image_thumbnails/pdf_animation_ISMSI21_Iztok.gif)](ISMSI21_Iztok.pdf)
 [![IZTOK_ico_2021](/image_thumbnails/pdf_animation_IZTOK_ico_2021.gif)](IZTOK_ico_2021.pdf)
 [![CINTI_2022](/image_thumbnails/pdf_animation_CINTI_2022.gif)](CINTI_2022.pdf)
