@@ -7,6 +7,8 @@ Fister, I Jr., Fister, I., Iglesias, A., Galvez, A., Deb, S., & Fister, D. (2021
 Vrbančič, G., Podgorelec, V., Salcedo-Sanz, S., & Fister, I. (2022). [Profiling the Arion rufus snails with computer vision](https://github.com/firefly-cpp/conference-presentations/blob/main/CINTI_2022.pdf). In 2022 IEEE 22nd International Symposium on Computational Intelligence and Informatics and 8th IEEE International Conference on Recent Achievements in Mechatronics, Automation, Computer Science and Robotics (CINTI-MACRo) (pp. 000369-000374). IEEE.
 
 
+
 # Generated Thumbnails
-[![IZTOK_ico_2021](/image_thumbnails/pdf_animation_IZTOK_ico_2021.gif)](IZTOK_ico_2021.pdf)
 [![ISMSI21_Iztok](/image_thumbnails/pdf_animation_ISMSI21_Iztok.gif)](ISMSI21_Iztok.pdf)
+[![IZTOK_ico_2021](/image_thumbnails/pdf_animation_IZTOK_ico_2021.gif)](IZTOK_ico_2021.pdf)
+[![CINTI_2022](/image_thumbnails/pdf_animation_CINTI_2022.gif)](CINTI_2022.pdf)
