@@ -6,7 +6,7 @@ Fister, I Jr., Fister, I., Iglesias, A., Galvez, A., Deb, S., & Fister, D. (2021
 
 Vrbančič, G., Podgorelec, V., Salcedo-Sanz, S., & Fister, I. (2022). [Profiling the Arion rufus snails with computer vision](https://github.com/firefly-cpp/conference-presentations/blob/main/CINTI_2022.pdf). In 2022 IEEE 22nd International Symposium on Computational Intelligence and Informatics and 8th IEEE International Conference on Recent Achievements in Mechatronics, Automation, Computer Science and Robotics (CINTI-MACRo) (pp. 000369-000374). IEEE.
 
-
+Fister Jr, I., Fister, D., Mlakar, U., Ljubič, K., Brest, J., & Fister, I. (2014). [Netopirji, kresnice in kukavice pri obdelavi slik](https://github.com/firefly-cpp/conference-presentations/blob/main/ROSUS_2014.pdf). ROSUS 2014.
 
 # Generated Thumbnails
 [![ISMSI21_Iztok](/image_thumbnails/pdf_animation_ISMSI21_Iztok.gif)](ISMSI21_Iztok.pdf)
