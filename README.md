@@ -22,8 +22,10 @@ Material in this folder is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
+
 # Generated Thumbnails
 [![ROSUS_2014](/image_thumbnails/pdf_animation_ROSUS_2014.gif)](ROSUS_2014.pdf)
 [![ISMSI21_Iztok](/image_thumbnails/pdf_animation_ISMSI21_Iztok.gif)](ISMSI21_Iztok.pdf)
 [![IZTOK_ico_2021](/image_thumbnails/pdf_animation_IZTOK_ico_2021.gif)](IZTOK_ico_2021.pdf)
+[![ICSI19](/image_thumbnails/pdf_animation_ICSI19.gif)](ICSI19.pdf)
 [![CINTI_2022](/image_thumbnails/pdf_animation_CINTI_2022.gif)](CINTI_2022.pdf)
