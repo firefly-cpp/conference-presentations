@@ -8,6 +8,8 @@ Vrbančič, G., Podgorelec, V., Salcedo-Sanz, S., & Fister, I. (2022). [Profilin
 
 Fister Jr, I., Fister, D., Mlakar, U., Ljubič, K., Brest, J., & Fister, I. (2014). [Netopirji, kresnice in kukavice pri obdelavi slik](https://github.com/firefly-cpp/conference-presentations/blob/main/ROSUS_2014.pdf). ROSUS 2014.
 
+Fister Jr., I. et al. "[Population-based metaheuristics for planning interval training sessions in mountain biking](https://github.com/firefly-cpp/conference-presentations/blob/main/ICSI19.pdf)." Advances in Swarm Intelligence: 10th International Conference, ICSI 2019, Chiang Mai, Thailand, July 26–30, 2019, Proceedings, Part I 10. Springer International Publishing, 2019.
+
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
