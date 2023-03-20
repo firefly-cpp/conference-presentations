@@ -3,6 +3,7 @@
 # Contents
 - [2022](#2022)
 - [2021](#2021)
+- [2020](#2020)
 - [2019](#2019)
 - [2014](#2014)
 
@@ -15,6 +16,10 @@ Vrbančič, G., Podgorelec, V., Salcedo-Sanz, S., & Fister, I. (2022). [Profilin
 Fister Jr, I., Podgorelec, V., & Fister, I. (2021). [Improved nature-inspired algorithms for numeric association rule mining](https://github.com/firefly-cpp/conference-presentations/blob/main/ISMSI21_Iztok.pdf). In Intelligent Computing and Optimization: Proceedings of the 3rd International Conference on Intelligent Computing and Optimization 2020 (ICO 2020) (pp. 187-195). Springer International Publishing.
 
 Fister, I Jr., Fister, I., Iglesias, A., Galvez, A., Deb, S., & Fister, D. (2021). [On deploying the Artificial Sport Trainer into practice](https://github.com/firefly-cpp/conference-presentations/blob/main/IZTOK_ico_2021.pdf). In 2021 8th International Conference on Soft Computing & Machine Intelligence (ISCMI) (pp. 21-26). IEEE.
+
+## 2020
+
+Fister Jr, I., Fister, D., Iglesias, A., Galvez, A., Osaba, E., Del Ser, J., & Fister, I. (2020). [Visualization of Numerical Association Rules by Hill Slopes](https://github.com/firefly-cpp/conference-presentations/blob/main/IZTOK_ideal20.pdf). In Intelligent Data Engineering and Automated Learning–IDEAL 2020: 21st International Conference, Guimaraes, Portugal, November 4–6, 2020, Proceedings, Part I 21 (pp. 101-111). Springer International Publishing.
 
 ## 2019
 
