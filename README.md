@@ -25,6 +25,8 @@ Fister Jr, I., Fister, D., Iglesias, A., Galvez, A., Osaba, E., Del Ser, J., & F
 
 Fister Jr., I. et al. "[Population-based metaheuristics for planning interval training sessions in mountain biking](https://github.com/firefly-cpp/conference-presentations/blob/main/ICSI19.pdf)." Advances in Swarm Intelligence: 10th International Conference, ICSI 2019, Chiang Mai, Thailand, July 26–30, 2019, Proceedings, Part I 10. Springer International Publishing, 2019.
 
+Angus, D., and Fister Jr., I. "[Tracking the exploration and exploitation in stochastic population-based nature-inspired algorithms using recurrence plots](https://github.com/firefly-cpp/conference-presentations/blob/main/SEMCCO_2019.pdf)." Swarm, Evolutionary, and Memetic Computing and Fuzzy and Neural Computing: 7th International Conference, SEMCCO 2019, and 5th International Conference, FANCCO 2019, Maribor, Slovenia, July 10–12, 2019, Revised Selected Papers 7. Springer International Publishing, 2020.
+
 ## 2014
 Fister Jr, I., Fister, D., Mlakar, U., Ljubič, K., Brest, J., & Fister, I. (2014). [Netopirji, kresnice in kukavice pri obdelavi slik](https://github.com/firefly-cpp/conference-presentations/blob/main/ROSUS_2014.pdf). ROSUS 2014.
 
