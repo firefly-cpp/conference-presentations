@@ -47,11 +47,13 @@ Material in this folder is licensed under a
 
 
 
+
 # Generated Thumbnails
-[![CINTI_2022](/image_thumbnails/pdf_animation_CINTI_2022.gif)](CINTI_2022.pdf)
 [![ROSUS_2014](/image_thumbnails/pdf_animation_ROSUS_2014.gif)](ROSUS_2014.pdf)
+[![IZTOK_ideal20](/image_thumbnails/pdf_animation_IZTOK_ideal20.gif)](IZTOK_ideal20.pdf)
+[![SSCI2022_P95_Novak](/image_thumbnails/pdf_animation_SSCI2022_P95_Novak.gif)](SSCI2022_P95_Novak.pdf)
 [![ISMSI21_Iztok](/image_thumbnails/pdf_animation_ISMSI21_Iztok.gif)](ISMSI21_Iztok.pdf)
-[![IZTOK_ico_2021](/image_thumbnails/pdf_animation_IZTOK_ico_2021.gif)](IZTOK_ico_2021.pdf)
+[![CINTI_2022](/image_thumbnails/pdf_animation_CINTI_2022.gif)](CINTI_2022.pdf)
 [![ICSI19](/image_thumbnails/pdf_animation_ICSI19.gif)](ICSI19.pdf)
 [![SEMCCO_2019](/image_thumbnails/pdf_animation_SEMCCO_2019.gif)](SEMCCO_2019.pdf)
-[![IZTOK_ideal20](/image_thumbnails/pdf_animation_IZTOK_ideal20.gif)](IZTOK_ideal20.pdf)
+[![IZTOK_ico_2021](/image_thumbnails/pdf_animation_IZTOK_ico_2021.gif)](IZTOK_ico_2021.pdf)
