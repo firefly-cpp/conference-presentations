@@ -11,6 +11,8 @@
 
 Vrbančič, G., Podgorelec, V., Salcedo-Sanz, S., & Fister, I. (2022). [Profiling the Arion rufus snails with computer vision](https://github.com/firefly-cpp/conference-presentations/blob/main/CINTI_2022.pdf). In 2022 IEEE 22nd International Symposium on Computational Intelligence and Informatics and 8th IEEE International Conference on Recent Achievements in Mechatronics, Automation, Computer Science and Robotics (CINTI-MACRo) (pp. 000369-000374). IEEE.
 
+Fister, I., Fister, I. Jr., Novak, D., Verber, D. [Data squashing as preprocessing in association rule mining](https://github.com/firefly-cpp/conference-presentations/blob/main/SSCI2022_P95_Novak.pdf). 2022 IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, 2022.
+
 ## 2021
 
 Fister Jr, I., Podgorelec, V., & Fister, I. (2021). [Improved nature-inspired algorithms for numeric association rule mining](https://github.com/firefly-cpp/conference-presentations/blob/main/ISMSI21_Iztok.pdf). In Intelligent Computing and Optimization: Proceedings of the 3rd International Conference on Intelligent Computing and Optimization 2020 (ICO 2020) (pp. 187-195). Springer International Publishing.
