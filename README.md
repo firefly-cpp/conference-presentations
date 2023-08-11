@@ -52,10 +52,13 @@ Material in this folder is licensed under a
 
 
 
+
 # Generated Thumbnails
+[![INES2021_GF_XCS](/image_thumbnails/pdf_animation_INES2021_GF_XCS.gif)](INES2021_GF_XCS.pdf)
 [![ROSUS_2014](/image_thumbnails/pdf_animation_ROSUS_2014.gif)](ROSUS_2014.pdf)
 [![IZTOK_ideal20](/image_thumbnails/pdf_animation_IZTOK_ideal20.gif)](IZTOK_ideal20.pdf)
 [![SSCI2022_P95_Novak](/image_thumbnails/pdf_animation_SSCI2022_P95_Novak.gif)](SSCI2022_P95_Novak.pdf)
+[![CINTI2021_Opponent_game_policy_modeling](/image_thumbnails/pdf_animation_CINTI2021_Opponent_game_policy_modeling.gif)](CINTI2021_Opponent_game_policy_modeling.pdf)
 [![ISMSI21_Iztok](/image_thumbnails/pdf_animation_ISMSI21_Iztok.gif)](ISMSI21_Iztok.pdf)
 [![CINTI_2022](/image_thumbnails/pdf_animation_CINTI_2022.gif)](CINTI_2022.pdf)
 [![ICSI19](/image_thumbnails/pdf_animation_ICSI19.gif)](ICSI19.pdf)
