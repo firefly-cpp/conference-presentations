@@ -1,11 +1,17 @@
 # presentations
 
 # Contents
+
+- [2023](#2023)
 - [2022](#2022)
 - [2021](#2021)
 - [2020](#2020)
 - [2019](#2019)
 - [2014](#2014)
+
+## 2023
+
+Fister Jr, I., Fister, I., Galvez, A., & Iglesias, A. (2023, August). [TinyNARM: Simplifying Numerical Association Rule Mining for Running on Microcontrollers](https://github.com/firefly-cpp/conference-presentations/blob/main/SOCO_2023.pdf). In International Conference on Soft Computing Models in Industrial and Environmental Applications (pp. 122-131). Cham: Springer Nature Switzerland.
 
 ## 2022
 
