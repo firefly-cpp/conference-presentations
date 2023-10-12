@@ -63,6 +63,7 @@ Material in this folder is licensed under a
 
 
 
+
 # Thumbnails
 [![ROSUS_2014](/image_thumbnails/pdf_animation_ROSUS_2014.gif)](ROSUS_2014.pdf)
 [![SSCI2022_P95_Novak](/image_thumbnails/pdf_animation_SSCI2022_P95_Novak.gif)](SSCI2022_P95_Novak.pdf)
