@@ -11,6 +11,8 @@
 
 ## 2023
 
+Novak, D., Fister I., Jr. [Turn action extractions into game agent module decisions](https://github.com/firefly-cpp/conference-presentations/blob/main/ERK2023_Novak_Fister.pdf). Proceedings of the 32nd International Electrotechnical and Computer Science Conference ERK 2023, pp. 309-312. 2023.
+
 Fister Jr, I., Fister, I., Galvez, A., & Iglesias, A. (2023, August). [TinyNARM: Simplifying Numerical Association Rule Mining for Running on Microcontrollers](https://github.com/firefly-cpp/conference-presentations/blob/main/SOCO_2023.pdf). In International Conference on Soft Computing Models in Industrial and Environmental Applications (pp. 122-131). Cham: Springer Nature Switzerland.
 
 ## 2022
