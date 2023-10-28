@@ -42,7 +42,13 @@ Fister Jr., I. et al. "[Population-based metaheuristics for planning interval tr
 Angus, D., and Fister Jr., I. "[Tracking the exploration and exploitation in stochastic population-based nature-inspired algorithms using recurrence plots](https://github.com/firefly-cpp/conference-presentations/blob/main/SEMCCO_2019.pdf)." Swarm, Evolutionary, and Memetic Computing and Fuzzy and Neural Computing: 7th International Conference, SEMCCO 2019, and 5th International Conference, FANCCO 2019, Maribor, Slovenia, July 10–12, 2019, Revised Selected Papers 7. Springer International Publishing, 2020.
 
 ## 2014
+
 Fister Jr, I., Fister, D., Mlakar, U., Ljubič, K., Brest, J., & Fister, I. (2014). [Netopirji, kresnice in kukavice pri obdelavi slik](https://github.com/firefly-cpp/conference-presentations/blob/main/ROSUS_2014.pdf). ROSUS 2014.
+
+## 2011
+
+Fister I., Jr. et al. [Odkrivanje vožnje v zavetrju na triatlonskih tekmovanjih: stvarnost ali iluzija](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_ERK_2011.pdf). Zbornik dvajsete mednarodne Elektrotehniške in računalniške konference ERK 2011, 19.-21. september 2011, Portorož, Slovenija (Zv. B, str. 111-114).
+
 
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
