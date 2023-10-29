@@ -8,6 +8,8 @@
 - [2020](#2020)
 - [2019](#2019)
 - [2014](#2014)
+- [2012](#2012)
+- [2011](#2011)
 
 ## 2023
 
@@ -45,6 +47,10 @@ Angus, D., and Fister Jr., I. "[Tracking the exploration and exploitation in sto
 
 Fister Jr, I., Fister, D., Mlakar, U., Ljubič, K., Brest, J., & Fister, I. (2014). [Netopirji, kresnice in kukavice pri obdelavi slik](https://github.com/firefly-cpp/conference-presentations/blob/main/ROSUS_2014.pdf). ROSUS 2014.
 
+## 2012
+
+Fister Jr, I., Fister, I., & Brest, J. (2012, April). [A hybrid artificial bee colony algorithm for graph 3-coloring](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_ICAISC_2012.pdf). In International Symposium on Evolutionary Computation (pp. 66-74). Berlin, Heidelberg: Springer Berlin Heidelberg.
+
 ## 2011
 
 Fister I., Jr. et al. [Odkrivanje vožnje v zavetrju na triatlonskih tekmovanjih: stvarnost ali iluzija](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_ERK_2011.pdf). Zbornik dvajsete mednarodne Elektrotehniške in računalniške konference ERK 2011, 19.-21. september 2011, Portorož, Slovenija (Zv. B, str. 111-114).
@@ -61,15 +67,6 @@ Material in this folder is licensed under a
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
-
-
-
-
-
-
-
-
-
 
 # Thumbnails
 [![CINTI2021_Opponent_game_policy_modeling](/image_thumbnails/pdf_animation_CINTI2021_Opponent_game_policy_modeling.gif)](CINTI2021_Opponent_game_policy_modeling.pdf)
