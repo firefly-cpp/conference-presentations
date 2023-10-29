@@ -68,10 +68,12 @@ Material in this folder is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
+
 # Thumbnails
 [![CINTI2021_Opponent_game_policy_modeling](/image_thumbnails/pdf_animation_CINTI2021_Opponent_game_policy_modeling.gif)](CINTI2021_Opponent_game_policy_modeling.pdf)
 [![INES2021_GF_XCS](/image_thumbnails/pdf_animation_INES2021_GF_XCS.gif)](INES2021_GF_XCS.pdf)
 [![Iztok_ERK_2011](/image_thumbnails/pdf_animation_Iztok_ERK_2011.gif)](Iztok_ERK_2011.pdf)
+[![Iztok_ICAISC_2012](/image_thumbnails/pdf_animation_Iztok_ICAISC_2012.gif)](Iztok_ICAISC_2012.pdf)
 [![CINTI_2022](/image_thumbnails/pdf_animation_CINTI_2022.gif)](CINTI_2022.pdf)
 [![ISMSI21_Iztok](/image_thumbnails/pdf_animation_ISMSI21_Iztok.gif)](ISMSI21_Iztok.pdf)
 [![IZTOK_ideal20](/image_thumbnails/pdf_animation_IZTOK_ideal20.gif)](IZTOK_ideal20.pdf)
