@@ -51,6 +51,8 @@ Fister Jr, I., Fister, D., Mlakar, U., Ljubič, K., Brest, J., & Fister, I. (201
 
 Fister Jr, I., Fister, I., & Brest, J. (2012, April). [A hybrid artificial bee colony algorithm for graph 3-coloring](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_ICAISC_2012.pdf). In International Symposium on Evolutionary Computation (pp. 66-74). Berlin, Heidelberg: Springer Berlin Heidelberg.
 
+I. Fister Jr., X.-S. Yang, I. Fister, J. Brest, [Memetic firefly algorithm for combinatorial optimization](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_BIOMA_2012.pdf), in Bioinspired Optimization Methods and their Applications (BIOMA 2012), B. Filipic and J.Silc, Eds. Jozef Stefan Institute, Ljubljana, Slovenia, 2012
+
 ## 2011
 
 Fister I., Jr. et al. [Odkrivanje vožnje v zavetrju na triatlonskih tekmovanjih: stvarnost ali iluzija](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_ERK_2011.pdf). Zbornik dvajsete mednarodne Elektrotehniške in računalniške konference ERK 2011, 19.-21. september 2011, Portorož, Slovenija (Zv. B, str. 111-114).
