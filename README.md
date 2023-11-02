@@ -72,6 +72,7 @@ Material in this folder is licensed under a
 
 
 
+
 # Thumbnails
 [![Iztok_BIOMA_2012](/image_thumbnails/pdf_animation_Iztok_BIOMA_2012.gif)](Iztok_BIOMA_2012.pdf)
 [![CINTI2021_Opponent_game_policy_modeling](/image_thumbnails/pdf_animation_CINTI2021_Opponent_game_policy_modeling.gif)](CINTI2021_Opponent_game_policy_modeling.pdf)
