@@ -46,7 +46,7 @@ Angus, D., and Fister Jr., I. "[Tracking the exploration and exploitation in sto
 
 ## 2018
 
-Brezočnik, L., Fister, I., Podgorelec, V. (2020). [Solving Agile Software Development Problems with Swarm Intelligence Algorithms](https://github.com/firefly-cpp/conference-presentations/blob/main/BIOMA2018_Brezocnik.pdf). In: Karabegović, I. (eds) New Technologies, Development and Application II. NT 2019. Lecture Notes in Networks and Systems, vol 76. Springer, Cham.
+Brezočnik, L., Fister, I., Podgorelec, V. (2018). [Scrum Task Allocation Based on Particle Swarm Optimization](https://github.com/firefly-cpp/conference-presentations/blob/main/BIOMA2018_Brezocnik.pdf). In: Korošec, P., Melab, N., Talbi, EG. (eds) Bioinspired Optimization Methods and Their Applications. BIOMA 2018. Lecture Notes in Computer Science(), vol 10835. Springer, Cham.
 
 ## 2014
 
