@@ -38,6 +38,8 @@ Fister, I Jr., Fister, I., Iglesias, A., Galvez, A., Deb, S., & Fister, D. (2021
 
 Fister Jr, I., Fister, D., Iglesias, A., Galvez, A., Osaba, E., Del Ser, J., & Fister, I. (2020). [Visualization of Numerical Association Rules by Hill Slopes](https://github.com/firefly-cpp/conference-presentations/blob/main/IZTOK_ideal20.pdf). In Intelligent Data Engineering and Automated Learning–IDEAL 2020: 21st International Conference, Guimaraes, Portugal, November 4–6, 2020, Proceedings, Part I 21 (pp. 101-111). Springer International Publishing.
 
+Brezočnik, L., Fister, I., Podgorelec, V. (2020). [Nature-Inspired Cryptoanalysis Methods for Breaking Vigenère Cipher](https://github.com/firefly-cpp/conference-presentations/blob/main/NT-2020_Brezocnik.pdf). In: Karabegović, I. (eds) New Technologies, Development and Application III. NT 2020. Lecture Notes in Networks and Systems, vol 128. Springer, Cham.
+
 ## 2019
 
 Fister Jr., I. et al. "[Population-based metaheuristics for planning interval training sessions in mountain biking](https://github.com/firefly-cpp/conference-presentations/blob/main/ICSI19.pdf)." Advances in Swarm Intelligence: 10th International Conference, ICSI 2019, Chiang Mai, Thailand, July 26–30, 2019, Proceedings, Part I 10. Springer International Publishing, 2019.
