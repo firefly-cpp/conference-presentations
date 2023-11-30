@@ -81,6 +81,7 @@ Material in this folder is licensed under a
 
 
 
+
 # Thumbnails
 [![Iztok_BIOMA_2012](/image_thumbnails/pdf_animation_Iztok_BIOMA_2012.gif)](Iztok_BIOMA_2012.pdf)
 [![SSCI2022_P95_Novak](/image_thumbnails/pdf_animation_SSCI2022_P95_Novak.gif)](SSCI2022_P95_Novak.pdf)
