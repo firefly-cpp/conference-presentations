@@ -1,5 +1,3 @@
-# presentations
-
 # Contents
 
 - [2023](#2023)
