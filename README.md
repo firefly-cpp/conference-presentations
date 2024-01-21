@@ -1,3 +1,7 @@
+# About
+
+This repository contains a compilation of conference presentations featuring papers I authored or co-authored. It undergoes regular updates.
+
 # Contents
 
 - [2023](#2023)
@@ -7,6 +11,7 @@
 - [2019](#2019)
 - [2018](#2018)
 - [2014](#2014)
+- [2013](#2013)
 - [2012](#2012)
 - [2011](#2011)
 
@@ -30,33 +35,39 @@ Novak, D., Fister, I. Jr. [Adaptive online opponent game policy modeling with as
 
 Fister Jr, I., Podgorelec, V., & Fister, I. (2021). [Improved nature-inspired algorithms for numeric association rule mining](https://github.com/firefly-cpp/conference-presentations/blob/main/ISMSI21_Iztok.pdf). In Intelligent Computing and Optimization: Proceedings of the 3rd International Conference on Intelligent Computing and Optimization 2020 (ICO 2020) (pp. 187-195). Springer International Publishing.
 
-Fister, I Jr., Fister, I., Iglesias, A., Galvez, A., Deb, S., & Fister, D. (2021). [On deploying the Artificial Sport Trainer into practice](https://github.com/firefly-cpp/conference-presentations/blob/main/IZTOK_ico_2021.pdf). In 2021 8th International Conference on Soft Computing & Machine Intelligence (ISCMI) (pp. 21-26). IEEE.
+Fister, I Jr., Fister, I., Iglesias, A., Galvez, A., Deb, S., & Fister, D. (2021). [On deploying the Artificial Sport Trainer into practice](https://github.com/firefly-cpp/conference-presentations/blob/main/IZTOK_ico_2021.pdf). In 2021 8th International Conference on Soft Computing & Machine Intelligence (ISCMI) (pp. 21-26). IEEE. [[Paper](https://arxiv.org/pdf/2109.13334.pdf)]
 
 ## 2020
 
-Fister Jr, I., Fister, D., Iglesias, A., Galvez, A., Osaba, E., Del Ser, J., & Fister, I. (2020). [Visualization of Numerical Association Rules by Hill Slopes](https://github.com/firefly-cpp/conference-presentations/blob/main/IZTOK_ideal20.pdf). In Intelligent Data Engineering and Automated Learning–IDEAL 2020: 21st International Conference, Guimaraes, Portugal, November 4–6, 2020, Proceedings, Part I 21 (pp. 101-111). Springer International Publishing.
+Fister Jr, I., Fister, D., Iglesias, A., Galvez, A., Osaba, E., Del Ser, J., & Fister, I. (2020). [Visualization of Numerical Association Rules by Hill Slopes](https://github.com/firefly-cpp/conference-presentations/blob/main/IZTOK_ideal20.pdf). In Intelligent Data Engineering and Automated Learning–IDEAL 2020: 21st International Conference, Guimaraes, Portugal, November 4–6, 2020, Proceedings, Part I 21 (pp. 101-111). Springer International Publishing. [[Paper](https://www.iztok-jr-fister.eu/static/publications/280.pdf)]
 
-Brezočnik, L., Fister, I., Podgorelec, V. (2020). [Nature-Inspired Cryptoanalysis Methods for Breaking Vigenère Cipher](https://github.com/firefly-cpp/conference-presentations/blob/main/NT-2020_Brezocnik.pdf). In: Karabegović, I. (eds) New Technologies, Development and Application III. NT 2020. Lecture Notes in Networks and Systems, vol 128. Springer, Cham.
+Brezočnik, L., Fister, I., Podgorelec, V. (2020). [Nature-Inspired Cryptoanalysis Methods for Breaking Vigenère Cipher](https://github.com/firefly-cpp/conference-presentations/blob/main/NT-2020_Brezocnik.pdf). In: Karabegović, I. (eds) New Technologies, Development and Application III. NT 2020. Lecture Notes in Networks and Systems, vol 128. Springer, Cham. [[Paper](https://iztok-jr-fister.eu/static/publications/268.pdf)]
 
 ## 2019
 
-Fister Jr., I. et al. "[Population-based metaheuristics for planning interval training sessions in mountain biking](https://github.com/firefly-cpp/conference-presentations/blob/main/ICSI19.pdf)." Advances in Swarm Intelligence: 10th International Conference, ICSI 2019, Chiang Mai, Thailand, July 26–30, 2019, Proceedings, Part I 10. Springer International Publishing, 2019.
+Fister Jr., I. et al. "[Population-based metaheuristics for planning interval training sessions in mountain biking](https://github.com/firefly-cpp/conference-presentations/blob/main/ICSI19.pdf)." Advances in Swarm Intelligence: 10th International Conference, ICSI 2019, Chiang Mai, Thailand, July 26–30, 2019, Proceedings, Part I 10. Springer International Publishing, 2019. [[Paper](https://iztok-jr-fister.eu/static/publications/250.pdf)]
 
-Angus, D., and Fister Jr., I. "[Tracking the exploration and exploitation in stochastic population-based nature-inspired algorithms using recurrence plots](https://github.com/firefly-cpp/conference-presentations/blob/main/SEMCCO_2019.pdf)." Swarm, Evolutionary, and Memetic Computing and Fuzzy and Neural Computing: 7th International Conference, SEMCCO 2019, and 5th International Conference, FANCCO 2019, Maribor, Slovenia, July 10–12, 2019, Revised Selected Papers 7. Springer International Publishing, 2020.
+Angus, D., and Fister Jr., I. "[Tracking the exploration and exploitation in stochastic population-based nature-inspired algorithms using recurrence plots](https://github.com/firefly-cpp/conference-presentations/blob/main/SEMCCO_2019.pdf)." Swarm, Evolutionary, and Memetic Computing and Fuzzy and Neural Computing: 7th International Conference, SEMCCO 2019, and 5th International Conference, FANCCO 2019, Maribor, Slovenia, July 10–12, 2019, Revised Selected Papers 7. Springer International Publishing, 2020. [[Paper](https://www.iztok-jr-fister.eu/static/publications/256.pdf)]
 
 ## 2018
 
-Brezočnik, L., Fister, I., Podgorelec, V. (2018). [Scrum Task Allocation Based on Particle Swarm Optimization](https://github.com/firefly-cpp/conference-presentations/blob/main/BIOMA2018_Brezocnik.pdf). In: Korošec, P., Melab, N., Talbi, EG. (eds) Bioinspired Optimization Methods and Their Applications. BIOMA 2018. Lecture Notes in Computer Science(), vol 10835. Springer, Cham.
+Brezočnik, L., Fister, I., Podgorelec, V. (2018). [Scrum Task Allocation Based on Particle Swarm Optimization](https://github.com/firefly-cpp/conference-presentations/blob/main/BIOMA2018_Brezocnik.pdf). In: Korošec, P., Melab, N., Talbi, EG. (eds) Bioinspired Optimization Methods and Their Applications. BIOMA 2018. Lecture Notes in Computer Science(), vol 10835. Springer, Cham. [[Paper](https://www.iztok-jr-fister.eu/static/publications/223.pdf)]
 
 ## 2014
 
-Fister Jr, I., Fister, D., Mlakar, U., Ljubič, K., Brest, J., & Fister, I. (2014). [Netopirji, kresnice in kukavice pri obdelavi slik](https://github.com/firefly-cpp/conference-presentations/blob/main/ROSUS_2014.pdf). ROSUS 2014.
+Fister Jr, I., Fister, D., Mlakar, U., Ljubič, K., Brest, J., & Fister, I. (2014). [Netopirji, kresnice in kukavice pri obdelavi slik](https://github.com/firefly-cpp/conference-presentations/blob/main/ROSUS_2014.pdf). ROSUS 2014. [[Paper](https://iztok-jr-fister.eu/static/publications/37.pdf)]
+
+## 2013
+
+Fister Jr, I., Fister, D., & Fister, I. (2013). [Differential evolution strategies with random forest regression in the bat algorithm](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_Gecco2013.pdf). In Proceedings of the 15th annual conference companion on Genetic and evolutionary computation (pp. 1703-1706). [[Paper](https://iztok-jr-fister.eu/static/publications/41.pdf)]
+
+Fister Jr., I., Fister, I., & Brest, J. (2013). [Comparing various regression methods on ensemble strategies in differential evolution](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_Mendel2013.pdf). In Mendel 2013 (pp. 87-92). [[Paper](https://iztok-jr-fister.eu/static/publications/43.pdf)]
 
 ## 2012
 
-Fister Jr, I., Fister, I., & Brest, J. (2012, April). [A hybrid artificial bee colony algorithm for graph 3-coloring](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_ICAISC_2012.pdf). In International Symposium on Evolutionary Computation (pp. 66-74). Berlin, Heidelberg: Springer Berlin Heidelberg.
+Fister Jr, I., Fister, I., & Brest, J. (2012, April). [A hybrid artificial bee colony algorithm for graph 3-coloring](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_ICAISC_2012.pdf). In International Symposium on Evolutionary Computation (pp. 66-74). Berlin, Heidelberg: Springer Berlin Heidelberg. [[Paper](https://www.iztok-jr-fister.eu/static/publications/14.pdf)]
 
-I. Fister Jr., X.-S. Yang, I. Fister, J. Brest, [Memetic firefly algorithm for combinatorial optimization](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_BIOMA_2012.pdf), in Bioinspired Optimization Methods and their Applications (BIOMA 2012), B. Filipic and J.Silc, Eds. Jozef Stefan Institute, Ljubljana, Slovenia, 2012
+I. Fister Jr., X.-S. Yang, I. Fister, J. Brest, [Memetic firefly algorithm for combinatorial optimization](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_BIOMA_2012.pdf), in Bioinspired Optimization Methods and their Applications (BIOMA 2012), B. Filipic and J.Silc, Eds. Jozef Stefan Institute, Ljubljana, Slovenia, 2012 [[Paper](https://iztok-jr-fister.eu/static/publications/44.pdf)]
 
 ## 2011
 
@@ -75,29 +86,21 @@ Material in this folder is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-
-
-
-
-
-
-
-
 # Thumbnails
-[![ICSI19](/image_thumbnails/pdf_animation_ICSI19.gif)](ICSI19.pdf)
-[![NT-2020_Brezocnik](/image_thumbnails/pdf_animation_NT-2020_Brezocnik.gif)](NT-2020_Brezocnik.pdf)
-[![CINTI2021_Opponent_game_policy_modeling](/image_thumbnails/pdf_animation_CINTI2021_Opponent_game_policy_modeling.gif)](CINTI2021_Opponent_game_policy_modeling.pdf)
-[![INES2021_GF_XCS](/image_thumbnails/pdf_animation_INES2021_GF_XCS.gif)](INES2021_GF_XCS.pdf)
-[![ISMSI21_Iztok](/image_thumbnails/pdf_animation_ISMSI21_Iztok.gif)](ISMSI21_Iztok.pdf)
-[![IZTOK_ideal20](/image_thumbnails/pdf_animation_IZTOK_ideal20.gif)](IZTOK_ideal20.pdf)
-[![ERK2023_Novak_Fister](/image_thumbnails/pdf_animation_ERK2023_Novak_Fister.gif)](ERK2023_Novak_Fister.pdf)
-[![Iztok_ICAISC_2012](/image_thumbnails/pdf_animation_Iztok_ICAISC_2012.gif)](Iztok_ICAISC_2012.pdf)
+[![Iztok_BIOMA_2012](/image_thumbnails/pdf_animation_Iztok_BIOMA_2012.gif)](Iztok_BIOMA_2012.pdf)
 [![SSCI2022_P95_Novak](/image_thumbnails/pdf_animation_SSCI2022_P95_Novak.gif)](SSCI2022_P95_Novak.pdf)
-[![CINTI_2022](/image_thumbnails/pdf_animation_CINTI_2022.gif)](CINTI_2022.pdf)
+[![CINTI2021_Opponent_game_policy_modeling](/image_thumbnails/pdf_animation_CINTI2021_Opponent_game_policy_modeling.gif)](CINTI2021_Opponent_game_policy_modeling.pdf)
+[![NT-2020_Brezocnik](/image_thumbnails/pdf_animation_NT-2020_Brezocnik.gif)](NT-2020_Brezocnik.pdf)
+[![IZTOK_ideal20](/image_thumbnails/pdf_animation_IZTOK_ideal20.gif)](IZTOK_ideal20.pdf)
+[![SEMCCO_2019](/image_thumbnails/pdf_animation_SEMCCO_2019.gif)](SEMCCO_2019.pdf)
+[![Iztok_ICAISC_2012](/image_thumbnails/pdf_animation_Iztok_ICAISC_2012.gif)](Iztok_ICAISC_2012.pdf)
 [![ROSUS_2014](/image_thumbnails/pdf_animation_ROSUS_2014.gif)](ROSUS_2014.pdf)
 [![Iztok_ERK_2011](/image_thumbnails/pdf_animation_Iztok_ERK_2011.gif)](Iztok_ERK_2011.pdf)
-[![SEMCCO_2019](/image_thumbnails/pdf_animation_SEMCCO_2019.gif)](SEMCCO_2019.pdf)
-[![IZTOK_ico_2021](/image_thumbnails/pdf_animation_IZTOK_ico_2021.gif)](IZTOK_ico_2021.pdf)
 [![SOCO_2023](/image_thumbnails/pdf_animation_SOCO_2023.gif)](SOCO_2023.pdf)
+[![ISMSI21_Iztok](/image_thumbnails/pdf_animation_ISMSI21_Iztok.gif)](ISMSI21_Iztok.pdf)
+[![ERK2023_Novak_Fister](/image_thumbnails/pdf_animation_ERK2023_Novak_Fister.gif)](ERK2023_Novak_Fister.pdf)
+[![IZTOK_ico_2021](/image_thumbnails/pdf_animation_IZTOK_ico_2021.gif)](IZTOK_ico_2021.pdf)
+[![ICSI19](/image_thumbnails/pdf_animation_ICSI19.gif)](ICSI19.pdf)
+[![INES2021_GF_XCS](/image_thumbnails/pdf_animation_INES2021_GF_XCS.gif)](INES2021_GF_XCS.pdf)
+[![CINTI_2022](/image_thumbnails/pdf_animation_CINTI_2022.gif)](CINTI_2022.pdf)
 [![BIOMA2018_Brezocnik](/image_thumbnails/pdf_animation_BIOMA2018_Brezocnik.gif)](BIOMA2018_Brezocnik.pdf)
-[![Iztok_BIOMA_2012](/image_thumbnails/pdf_animation_Iztok_BIOMA_2012.gif)](Iztok_BIOMA_2012.pdf)
