@@ -12,21 +12,21 @@
 
 ## 2023
 
-Novak, D., Fister I., Jr. [Turn action extractions into game agent module decisions](https://github.com/firefly-cpp/conference-presentations/blob/main/ERK2023_Novak_Fister.pdf). Proceedings of the 32nd International Electrotechnical and Computer Science Conference ERK 2023, pp. 309-312. 2023.
+Novak, D., Fister I., Jr. [Turn action extractions into game agent module decisions](https://github.com/firefly-cpp/conference-presentations/blob/main/ERK2023_Novak_Fister.pdf). Proceedings of the 32nd International Electrotechnical and Computer Science Conference ERK 2023, pp. 309-312. 2023. [[Paper](https://iztok-jr-fister.eu/static/publications/312.pdf)]
 
-Fister Jr, I., Fister, I., Galvez, A., & Iglesias, A. (2023). [TinyNARM: Simplifying Numerical Association Rule Mining for Running on Microcontrollers](https://github.com/firefly-cpp/conference-presentations/blob/main/SOCO_2023.pdf). In International Conference on Soft Computing Models in Industrial and Environmental Applications (pp. 122-131). Cham: Springer Nature Switzerland.
+Fister Jr, I., Fister, I., Galvez, A., & Iglesias, A. (2023). [TinyNARM: Simplifying Numerical Association Rule Mining for Running on Microcontrollers](https://github.com/firefly-cpp/conference-presentations/blob/main/SOCO_2023.pdf). In International Conference on Soft Computing Models in Industrial and Environmental Applications (pp. 122-131). Cham: Springer Nature Switzerland. [[Paper](https://iztok-jr-fister.eu/static/publications/313.pdf)]
 
 ## 2022
 
-Vrbančič, G., Podgorelec, V., Salcedo-Sanz, S., & Fister, I. (2022). [Profiling the Arion rufus snails with computer vision](https://github.com/firefly-cpp/conference-presentations/blob/main/CINTI_2022.pdf). In 2022 IEEE 22nd International Symposium on Computational Intelligence and Informatics and 8th IEEE International Conference on Recent Achievements in Mechatronics, Automation, Computer Science and Robotics (CINTI-MACRo) (pp. 000369-000374). IEEE.
+Vrbančič, G., Podgorelec, V., Salcedo-Sanz, S., & Fister, I. (2022). [Profiling the Arion rufus snails with computer vision](https://github.com/firefly-cpp/conference-presentations/blob/main/CINTI_2022.pdf). In 2022 IEEE 22nd International Symposium on Computational Intelligence and Informatics and 8th IEEE International Conference on Recent Achievements in Mechatronics, Automation, Computer Science and Robotics (CINTI-MACRo) (pp. 000369-000374). IEEE. [[Paper](https://iztok-jr-fister.eu/static/publications/304.pdf)]
 
-Fister, I., Fister, I. Jr., Novak, D., Verber, D. [Data squashing as preprocessing in association rule mining](https://github.com/firefly-cpp/conference-presentations/blob/main/SSCI2022_P95_Novak.pdf). 2022 IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, 2022.
+Fister, I., Fister, I. Jr., Novak, D., Verber, D. [Data squashing as preprocessing in association rule mining](https://github.com/firefly-cpp/conference-presentations/blob/main/SSCI2022_P95_Novak.pdf). 2022 IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, 2022. [[Paper](https://iztok-jr-fister.eu/static/publications/300.pdf)]
 
 ## 2021
 
-Novak, D., Fister, I. Jr. [Game Feature Validation of a Real-Time Game Space with an eXtended Classifier System](https://github.com/firefly-cpp/conference-presentations/blob/main/INES2021_GF_XCS.pdf) 2021 IEEE 25th International Conference on Intelligent Engineering Systems (INES). IEEE, 2021.
+Novak, D., Fister, I. Jr. [Game Feature Validation of a Real-Time Game Space with an eXtended Classifier System](https://github.com/firefly-cpp/conference-presentations/blob/main/INES2021_GF_XCS.pdf) 2021 IEEE 25th International Conference on Intelligent Engineering Systems (INES). IEEE, 2021. [[Paper](https://iztok-jr-fister.eu/static/publications/295.pdf)]
 
-Novak, D., Fister, I. Jr. [Adaptive online opponent game policy modeling with association rule mining](https://github.com/firefly-cpp/conference-presentations/blob/main/CINTI2021_Opponent_game_policy_modeling.pdf). 2021 IEEE 21st International Symposium on Computational Intelligence and Informatics (CINTI). IEEE, 2021.
+Novak, D., Fister, I. Jr. [Adaptive online opponent game policy modeling with association rule mining](https://github.com/firefly-cpp/conference-presentations/blob/main/CINTI2021_Opponent_game_policy_modeling.pdf). 2021 IEEE 21st International Symposium on Computational Intelligence and Informatics (CINTI). IEEE, 2021. [[Paper](https://iztok-jr-fister.eu/static/publications/296.pdf)]
 
 Fister Jr, I., Podgorelec, V., & Fister, I. (2021). [Improved nature-inspired algorithms for numeric association rule mining](https://github.com/firefly-cpp/conference-presentations/blob/main/ISMSI21_Iztok.pdf). In Intelligent Computing and Optimization: Proceedings of the 3rd International Conference on Intelligent Computing and Optimization 2020 (ICO 2020) (pp. 187-195). Springer International Publishing.
 
