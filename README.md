@@ -4,6 +4,7 @@ This repository contains a compilation of conference presentations featuring pap
 
 # Contents
 
+- [2024](#2024)
 - [2023](#2023)
 - [2022](#2022)
 - [2021](#2021)
@@ -14,6 +15,10 @@ This repository contains a compilation of conference presentations featuring pap
 - [2013](#2013)
 - [2012](#2012)
 - [2011](#2011)
+
+## 2024
+
+Fister, I., Iglesias, A., Galvez, A., Podgorelec, V., & Fister Jr., I. (2024). [Contribution of low support association rules in understanding the mined knowledge](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_ACDSA_2024a.pdf). In 2024 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA) (pp. 1-6). IEEE.
 
 ## 2023
 
