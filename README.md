@@ -96,6 +96,7 @@ Material in this folder is licensed under a
 
 
 
+
 # Thumbnails
 [![IZTOK_ico_2021](/image_thumbnails/pdf_animation_IZTOK_ico_2021.gif)](IZTOK_ico_2021.pdf)
 [![CINTI_2022](/image_thumbnails/pdf_animation_CINTI_2022.gif)](CINTI_2022.pdf)
@@ -116,4 +117,5 @@ Material in this folder is licensed under a
 [![Iztok_Mendel2013](/image_thumbnails/pdf_animation_Iztok_Mendel2013.gif)](Iztok_Mendel2013.pdf)
 [![NT-2020_Brezocnik](/image_thumbnails/pdf_animation_NT-2020_Brezocnik.gif)](NT-2020_Brezocnik.pdf)
 [![Iztok_ERK_2011](/image_thumbnails/pdf_animation_Iztok_ERK_2011.gif)](Iztok_ERK_2011.pdf)
+[![Iztok_ACDSA_2024b](/image_thumbnails/pdf_animation_Iztok_ACDSA_2024b.gif)](Iztok_ACDSA_2024b.pdf)
 [![Iztok_ACDSA_2024a](/image_thumbnails/pdf_animation_Iztok_ACDSA_2024a.gif)](Iztok_ACDSA_2024a.pdf)
