@@ -100,6 +100,7 @@ Material in this folder is licensed under a
 
 
 
+
 # Thumbnails
 [![Iztok_ACDSA_2024a](/image_thumbnails/pdf_animation_Iztok_ACDSA_2024a.gif)](Iztok_ACDSA_2024a.pdf)
 [![Iztok_Mendel2013](/image_thumbnails/pdf_animation_Iztok_Mendel2013.gif)](Iztok_Mendel2013.pdf)
