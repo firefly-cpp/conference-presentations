@@ -18,6 +18,8 @@ This repository contains a compilation of conference presentations featuring pap
 
 ## 2024
 
+Novak, D., Verber, D., Fister, I., Fister I., Jr. [Association Rule Mining as Knowledge Infusion into the Mechanics of an eXtended Classifier System](https://github.com/firefly-cpp/conference-presentations/blob/main/INES2024_ID6_Damijan_Novak_presentation.pdf). IEEE 28th International Conference on Intelligent Engineering Systems 2024 (INES 2024). 2024.
+
 Fister, I., Iglesias, A., Galvez, A., Podgorelec, V., & Fister Jr., I. (2024). [Contribution of low support association rules in understanding the mined knowledge](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_ACDSA_2024a.pdf). In 2024 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA) (pp. 1-6). IEEE.
 
 Fister Jr., I., Fister, D., Podgorelec, V., Fister, I. (2024). [Profiling the carbon footprint of performance bugs](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_ACDSA_2024b.pdf). In 2024 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA) (pp. 1-7). IEEE.
