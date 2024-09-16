@@ -101,8 +101,9 @@ Material in this folder is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-## Thumbnails
 
+
+# Thumbnails
 [![Iztok_ICAISC_2012](/image_thumbnails/pdf_animation_Iztok_ICAISC_2012.gif)](Iztok_ICAISC_2012.pdf)
 [![ERK2023_Novak_Fister](/image_thumbnails/pdf_animation_ERK2023_Novak_Fister.gif)](ERK2023_Novak_Fister.pdf)
 [![SSCI2022_P95_Novak](/image_thumbnails/pdf_animation_SSCI2022_P95_Novak.gif)](SSCI2022_P95_Novak.pdf)
