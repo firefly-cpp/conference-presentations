@@ -1,20 +1,22 @@
-# About
+<h1 align="center">
+    👨‍🏫 Conference Presentations
+</h1>
+
+<p align="center">
+    <a href="#2011">2011</a> •
+    <a href="#2012">2012</a> •
+    <a href="#2013">2013</a> •
+    <a href="#2014">2014</a> •
+    <a href="#2018">2018</a> •
+    <a href="#2019">2019</a> •
+    <a href="#2020">2020</a> •
+    <a href="#2021">2021</a> •
+    <a href="#2022">2022</a> •
+    <a href="#2023">2023</a> •
+    <a href="#2024">2024</a>
+</p>
 
 This repository contains a compilation of conference presentations featuring papers I authored or co-authored. It undergoes regular updates.
-
-# Contents
-
-- [2024](#2024)
-- [2023](#2023)
-- [2022](#2022)
-- [2021](#2021)
-- [2020](#2020)
-- [2019](#2019)
-- [2018](#2018)
-- [2014](#2014)
-- [2013](#2013)
-- [2012](#2012)
-- [2011](#2011)
 
 ## 2024
 
@@ -86,8 +88,8 @@ I. Fister Jr., X.-S. Yang, I. Fister, J. Brest, [Memetic firefly algorithm for c
 
 Fister I., Jr. et al. [Odkrivanje vožnje v zavetrju na triatlonskih tekmovanjih: stvarnost ali iluzija](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_ERK_2011.pdf). Zbornik dvajsete mednarodne Elektrotehniške in računalniške konference ERK 2011, 19.-21. september 2011, Portorož, Slovenija (Zv. B, str. 111-114). [[Paper](https://iztok-jr-fister.eu/static/publications/48.pdf)]
 
+## License
 
-# License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Material in this folder is licensed under a
@@ -99,14 +101,8 @@ Material in this folder is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
+## Thumbnails
 
-
-
-
-
-
-
-# Thumbnails
 [![Iztok_ICAISC_2012](/image_thumbnails/pdf_animation_Iztok_ICAISC_2012.gif)](Iztok_ICAISC_2012.pdf)
 [![ERK2023_Novak_Fister](/image_thumbnails/pdf_animation_ERK2023_Novak_Fister.gif)](ERK2023_Novak_Fister.pdf)
 [![SSCI2022_P95_Novak](/image_thumbnails/pdf_animation_SSCI2022_P95_Novak.gif)](SSCI2022_P95_Novak.pdf)
