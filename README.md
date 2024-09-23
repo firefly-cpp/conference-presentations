@@ -52,6 +52,8 @@ Fister Jr, I., Podgorelec, V., & Fister, I. (2021). [Improved nature-inspired al
 
 Fister, I Jr., Fister, I., Iglesias, A., Galvez, A., Deb, S., & Fister, D. (2021). [On deploying the Artificial Sport Trainer into practice](https://github.com/firefly-cpp/conference-presentations/blob/main/IZTOK_ico_2021.pdf). In 2021 8th International Conference on Soft Computing & Machine Intelligence (ISCMI) (pp. 21-26). IEEE. [[Paper](https://arxiv.org/pdf/2109.13334.pdf)]
 
+Fister Jr., I., Lukač, L., Rajšp, A., Fister, I. Pečnik, L., Fister, D. [A minimalistic toolbox for extracting features from sport activity files](https://github.com/firefly-cpp/conference-presentations/blob/main/INES2021_SAF_21.pdf). In: IEEE International Conference on Intelligent Engineering Systems (INES). pp. 121-126. 2021.
+
 ## 2020
 
 Fister Jr, I., Fister, D., Iglesias, A., Galvez, A., Osaba, E., Del Ser, J., & Fister, I. (2020). [Visualization of Numerical Association Rules by Hill Slopes](https://github.com/firefly-cpp/conference-presentations/blob/main/IZTOK_ideal20.pdf). In Intelligent Data Engineering and Automated Learning–IDEAL 2020: 21st International Conference, Guimaraes, Portugal, November 4–6, 2020, Proceedings, Part I 21 (pp. 101-111). Springer International Publishing. [[Paper](https://www.iztok-jr-fister.eu/static/publications/280.pdf)]
