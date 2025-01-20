@@ -20,6 +20,8 @@ This repository contains a compilation of conference presentations featuring pap
 
 ## 2024
 
+Novak, D., Verber. D, Fister, I., Fister I., Jr. [Analiza vplivov kodirnikov na doseženo okrepitveno nagrado hibridnega algoritma NARM-XCS](https://github.com/firefly-cpp/conference-presentations/blob/main/ERK2024_Novak_Fister.pdf). Proceedings of the 33nd International Electrotechnical and Computer Science Conference ERK 2024, pp. 393-396. 2024.
+
 Fister, I., Novak, D., Podgorelec, V., Fister Jr., I. [Incorporating a green component into the design and development of evolutionary algorithms](https://github.com/firefly-cpp/conference-presentations/blob/main/WIVACE2024.pdf). In WIVACE 2024, XVIII International Workshop on Artificial Life and Evolutionary Computation, Namur, Belgium, 11-13 September 2024.
 
 Novak, D., Verber, D., Fister, I., Fister I., Jr. [Association Rule Mining as Knowledge Infusion into the Mechanics of an eXtended Classifier System](https://github.com/firefly-cpp/conference-presentations/blob/main/INES2024_ID6_Damijan_Novak_presentation.pdf). In IEEE 28th International Conference on Intelligent Engineering Systems 2024 (INES 2024). 2024.
