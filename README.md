@@ -13,10 +13,16 @@
     <a href="#2021">2021</a> •
     <a href="#2022">2022</a> •
     <a href="#2023">2023</a> •
-    <a href="#2024">2024</a>
+    <a href="#2024">2024</a> •
+    <a href="#2025">2025</a>
 </p>
 
 This repository contains a compilation of conference presentations featuring papers I authored or co-authored. It undergoes regular updates.
+
+## 2025
+
+Hliš, T., Fister, I., Fister I., Jr. [Path overlap detection and property graph construction from TCX data for advanced analysis](https://github.com/firefly-cpp/conference-presentations/blob/main/SAMI_2025.pdf). IEEE 23rd World Symposium on Applied Machine Intelligence
+and Informatics (SAMI 2025).
 
 ## 2024
 
