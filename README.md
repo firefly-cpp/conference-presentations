@@ -142,4 +142,3 @@ Material in this folder is licensed under a
 [![IZTOK_ico_2021](/image_thumbnails/pdf_animation_IZTOK_ico_2021.gif)](IZTOK_ico_2021.pdf)
 [![BIOMA2018_Brezocnik](/image_thumbnails/pdf_animation_BIOMA2018_Brezocnik.gif)](BIOMA2018_Brezocnik.pdf)
 [![INES2024_ID6_Damijan_Novak_presentation](/image_thumbnails/pdf_animation_INES2024_ID6_Damijan_Novak_presentation.gif)](INES2024_ID6_Damijan_Novak_presentation.pdf)
-[![SAMI_2025](/image_thumbnails/pdf_animation_SAMI2025.gif)](SAMI_2025.pdf)
