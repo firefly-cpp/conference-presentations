@@ -13,10 +13,16 @@
     <a href="#2021">2021</a> •
     <a href="#2022">2022</a> •
     <a href="#2023">2023</a> •
-    <a href="#2024">2024</a>
+    <a href="#2024">2024</a> •
+    <a href="#2025">2025</a>
 </p>
 
 This repository contains a compilation of conference presentations featuring papers I authored or co-authored. It undergoes regular updates.
+
+## 2025
+
+Hliš, T., Fister, I., Fister I., Jr. [Path overlap detection and property graph construction from TCX data for advanced analysis](https://github.com/firefly-cpp/conference-presentations/blob/main/SAMI_2025.pdf). IEEE 23rd World Symposium on Applied Machine Intelligence
+and Informatics (SAMI 2025).
 
 ## 2024
 
@@ -136,3 +142,4 @@ Material in this folder is licensed under a
 [![IZTOK_ico_2021](/image_thumbnails/pdf_animation_IZTOK_ico_2021.gif)](IZTOK_ico_2021.pdf)
 [![BIOMA2018_Brezocnik](/image_thumbnails/pdf_animation_BIOMA2018_Brezocnik.gif)](BIOMA2018_Brezocnik.pdf)
 [![INES2024_ID6_Damijan_Novak_presentation](/image_thumbnails/pdf_animation_INES2024_ID6_Damijan_Novak_presentation.gif)](INES2024_ID6_Damijan_Novak_presentation.pdf)
+[![SAMI_2025](/image_thumbnails/pdf_animation_SAMI2025.gif)](SAMI_2025.pdf)
