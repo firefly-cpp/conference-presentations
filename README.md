@@ -22,7 +22,7 @@ This repository contains a compilation of conference presentations featuring pap
 ## 2025
 
 Hliš, T., Fister, I., Fister I., Jr. [Path overlap detection and property graph construction from TCX data for advanced analysis](https://github.com/firefly-cpp/conference-presentations/blob/main/SAMI_2025.pdf). IEEE 23rd World Symposium on Applied Machine Intelligence
-and Informatics (SAMI 2025).
+and Informatics (SAMI 2025). [[Paper](https://www.iztok-jr-fister.eu/static/publications/345.pdf)]
 
 ## 2024
 
