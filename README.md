@@ -14,10 +14,15 @@
     <a href="#2022">2022</a> •
     <a href="#2023">2023</a> •
     <a href="#2024">2024</a> •
-    <a href="#2025">2025</a>
+    <a href="#2025">2025</a> •
+    <a href="#2026">2026</a>
 </p>
 
 This repository contains a compilation of conference presentations featuring papers I authored or co-authored. It undergoes regular updates.
+
+## 2026
+
+Hliš, T., Fister, I., Mlakar, U., Fister I., Jr. [Timestamp interestingness measure for time series numerical association rule mining](https://github.com/firefly-cpp/conference-presentations/blob/main/SAMI_2026.pdf). IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026). [[Paper]()]
 
 ## 2025
 
