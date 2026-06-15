@@ -22,7 +22,7 @@ This repository contains a compilation of conference presentations featuring pap
 
 ## 2026
 
-Hliš, T., Fister, I., Mlakar, U., Fister I., Jr. [Timestamp interestingness measure for time series numerical association rule mining](https://github.com/firefly-cpp/conference-presentations/blob/main/SAMI_2026.pdf). IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026). [[Paper]()]
+Hliš, T., Fister, I., Mlakar, U., Fister I., Jr. [Timestamp interestingness measure for time series numerical association rule mining](https://github.com/firefly-cpp/conference-presentations/blob/main/SAMI_2026.pdf). IEEE 24th World Symposium on Applied Machine Intelligence and Informatics (SAMI 2026). [[Paper](https://iztok.link/static/publications/359.pdf)]
 
 ## 2025
 
@@ -32,15 +32,15 @@ Hliš, T., Fister, I., Fister I., Jr. [Path overlap detection and property graph
 
 ## 2024
 
-Novak, D., Verber. D, Fister, I., Fister I., Jr. [Analiza vplivov kodirnikov na doseženo okrepitveno nagrado hibridnega algoritma NARM-XCS](https://github.com/firefly-cpp/conference-presentations/blob/main/ERK2024_Novak_Fister.pdf). Proceedings of the 33nd International Electrotechnical and Computer Science Conference ERK 2024, pp. 393-396. 2024.
+Novak, D., Verber. D, Fister, I., Fister I., Jr. [Analiza vplivov kodirnikov na doseženo okrepitveno nagrado hibridnega algoritma NARM-XCS](https://github.com/firefly-cpp/conference-presentations/blob/main/ERK2024_Novak_Fister.pdf). Proceedings of the 33nd International Electrotechnical and Computer Science Conference ERK 2024, pp. 393-396. 2024. [[Paper](https://iztok.link/static/publications/337.pdf)]
 
 Fister, I., Novak, D., Podgorelec, V., Fister Jr., I. [Incorporating a green component into the design and development of evolutionary algorithms](https://github.com/firefly-cpp/conference-presentations/blob/main/WIVACE2024.pdf). In WIVACE 2024, XVIII International Workshop on Artificial Life and Evolutionary Computation, Namur, Belgium, 11-13 September 2024.
 
-Novak, D., Verber, D., Fister, I., Fister I., Jr. [Association Rule Mining as Knowledge Infusion into the Mechanics of an eXtended Classifier System](https://github.com/firefly-cpp/conference-presentations/blob/main/INES2024_ID6_Damijan_Novak_presentation.pdf). In IEEE 28th International Conference on Intelligent Engineering Systems 2024 (INES 2024). 2024.
+Novak, D., Verber, D., Fister, I., Fister I., Jr. [Association Rule Mining as Knowledge Infusion into the Mechanics of an eXtended Classifier System](https://github.com/firefly-cpp/conference-presentations/blob/main/INES2024_ID6_Damijan_Novak_presentation.pdf). In IEEE 28th International Conference on Intelligent Engineering Systems 2024 (INES 2024). 2024. [[Paper](https://iztok.link/static/publications/339.pdf)]
 
-Fister, I., Iglesias, A., Galvez, A., Podgorelec, V., & Fister Jr., I. (2024). [Contribution of low support association rules in understanding the mined knowledge](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_ACDSA_2024a.pdf). In 2024 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA) (pp. 1-6). IEEE.
+Fister, I., Iglesias, A., Galvez, A., Podgorelec, V., & Fister Jr., I. (2024). [Contribution of low support association rules in understanding the mined knowledge](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_ACDSA_2024a.pdf). In 2024 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA) (pp. 1-6). IEEE. [[Paper](https://iztok.link/static/publications/321.pdf)]
 
-Fister Jr., I., Fister, D., Podgorelec, V., Fister, I. (2024). [Profiling the carbon footprint of performance bugs](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_ACDSA_2024b.pdf). In 2024 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA) (pp. 1-7). IEEE.
+Fister Jr., I., Fister, D., Podgorelec, V., Fister, I. (2024). [Profiling the carbon footprint of performance bugs](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_ACDSA_2024b.pdf). In 2024 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA) (pp. 1-7). IEEE. [[Paper](https://iztok.link/static/publications/322.pdf)]
 
 ## 2023
 
