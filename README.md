@@ -30,7 +30,7 @@ Hliš, T., Fister, I., Rek, P., Fister I., Jr. [Time-aware analysis of overlappi
 
 Hliš, T., Fister, I., Fister I., Jr. [Path overlap detection and property graph construction from TCX data for advanced analysis](https://github.com/firefly-cpp/conference-presentations/blob/main/SAMI_2025.pdf). IEEE 23rd World Symposium on Applied Machine Intelligence and Informatics (SAMI 2025). [[Paper](https://www.iztok-jr-fister.eu/static/publications/345.pdf)]
 
-Kalacun, Aleksander, and Iztok Fister Jr. [MARNN: A New Method for Multi-agent Reinforcement Learning] (https://github.com/firefly-cpp/conference-presentations/blob/main/ERK_2025___Kalacun_Presentation.pdf). Proceedings of the 34th International Electrotechnical and Computer Science Conference ERK 2025, pp. . 2025. [[Paper](https://iztok-jr-fister.eu/static/publications/349.pdf)]
+Kalacun, A., Fister I., Jr. [MARNN: A New Method for Multi-agent Reinforcement Learning](https://github.com/firefly-cpp/conference-presentations/blob/main/ERK_2025___Kalacun_Presentation.pdf). Proceedings of the 34th International Electrotechnical and Computer Science Conference ERK 2025, (pp. 601-604). 2025. [[Paper](https://iztok-jr-fister.eu/static/publications/349.pdf)]
 
 ## 2024
 
