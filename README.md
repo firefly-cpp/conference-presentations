@@ -30,9 +30,11 @@ Hliš, T., Fister, I., Rek, P., Fister I., Jr. [Time-aware analysis of overlappi
 
 Hliš, T., Fister, I., Fister I., Jr. [Path overlap detection and property graph construction from TCX data for advanced analysis](https://github.com/firefly-cpp/conference-presentations/blob/main/SAMI_2025.pdf). IEEE 23rd World Symposium on Applied Machine Intelligence and Informatics (SAMI 2025). [[Paper](https://www.iztok-jr-fister.eu/static/publications/345.pdf)]
 
+Kalacun, Aleksander, and Iztok Fister Jr. [MARNN: A New Method for Multi-agent Reinforcement Learning] (https://github.com/firefly-cpp/conference-presentations/blob/main/ERK_2025___Kalacun_Presentation.pdf). Proceedings of the 34th International Electrotechnical and Computer Science Conference ERK 2025, pp. . 2025. [[Paper](https://iztok-jr-fister.eu/static/publications/349.pdf)]
+
 ## 2024
 
-Novak, D., Verber. D, Fister, I., Fister I., Jr. [Analiza vplivov kodirnikov na doseženo okrepitveno nagrado hibridnega algoritma NARM-XCS](https://github.com/firefly-cpp/conference-presentations/blob/main/ERK2024_Novak_Fister.pdf). Proceedings of the 33nd International Electrotechnical and Computer Science Conference ERK 2024, pp. 393-396. 2024. [[Paper](https://iztok.link/static/publications/337.pdf)]
+Novak, D., Verber. D, Fister, I., Fister I., Jr. [Analiza vplivov kodirnikov na doseženo okrepitveno nagrado hibridnega algoritma NARM-XCS](https://github.com/firefly-cpp/conference-presentations/blob/main/ERK2024_Novak_Fister.pdf). Proceedings of the 33th International Electrotechnical and Computer Science Conference ERK 2024, pp. 393-396. 2024. [[Paper](https://iztok.link/static/publications/337.pdf)]
 
 Fister, I., Novak, D., Podgorelec, V., Fister Jr., I. [Incorporating a green component into the design and development of evolutionary algorithms](https://github.com/firefly-cpp/conference-presentations/blob/main/WIVACE2024.pdf). In WIVACE 2024, XVIII International Workshop on Artificial Life and Evolutionary Computation, Namur, Belgium, 11-13 September 2024.
 
