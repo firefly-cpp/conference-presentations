@@ -84,6 +84,8 @@ Angus, D., and Fister Jr., I. "[Tracking the exploration and exploitation in sto
 
 ## 2018
 
+Fister, I., Brest, J., Iglesias, A., & Fister Jr, I. (2018). [Framework for planning the training sessions in triathlon](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_GECCO2018.pdf). In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1829-1834). [[Paper](https://www.iztok-jr-fister.eu/static/publications/218.pdf)]
+
 Brezočnik, L., Fister, I., Podgorelec, V. (2018). [Scrum Task Allocation Based on Particle Swarm Optimization](https://github.com/firefly-cpp/conference-presentations/blob/main/BIOMA2018_Brezocnik.pdf). In: Korošec, P., Melab, N., Talbi, EG. (eds) Bioinspired Optimization Methods and Their Applications. BIOMA 2018. Lecture Notes in Computer Science(), vol 10835. Springer, Cham. [[Paper](https://www.iztok-jr-fister.eu/static/publications/223.pdf)]
 
 ## 2014
