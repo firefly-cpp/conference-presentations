@@ -134,9 +134,11 @@ Material in this folder is licensed under a
 
 
 
+
 # Thumbnails
 [![CINTI_2022](/image_thumbnails/pdf_animation_CINTI_2022.gif)](CINTI_2022.pdf)
 [![IZTOK_ideal20](/image_thumbnails/pdf_animation_IZTOK_ideal20.gif)](IZTOK_ideal20.pdf)
+[![Vrbancic_WIMS2018](/image_thumbnails/pdf_animation_Vrbancic_WIMS2018.gif)](Vrbancic_WIMS2018.pdf)
 [![Iztok_Mendel2013](/image_thumbnails/pdf_animation_Iztok_Mendel2013.gif)](Iztok_Mendel2013.pdf)
 [![SAMI_2026](/image_thumbnails/pdf_animation_SAMI_2026.gif)](SAMI_2026.pdf)
 [![Iztok_Gecco2013](/image_thumbnails/pdf_animation_Iztok_Gecco2013.gif)](Iztok_Gecco2013.pdf)
