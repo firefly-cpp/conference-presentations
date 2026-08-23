@@ -86,6 +86,8 @@ Angus, D., and Fister Jr., I. "[Tracking the exploration and exploitation in sto
 
 Fister, I., Brest, J., Iglesias, A., & Fister Jr, I. (2018). [Framework for planning the training sessions in triathlon](https://github.com/firefly-cpp/conference-presentations/blob/main/Iztok_GECCO2018.pdf). In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1829-1834). [[Paper](https://www.iztok-jr-fister.eu/static/publications/218.pdf)]
 
+Vrbančič, G., Fister Jr, I., & Podgorelec, V. (2018). [Swarm intelligence approaches for parameter setting of deep learning neural network: case study on phishing websites classification](https://github.com/firefly-cpp/conference-presentations/blob/main/Vrbancic_WIMS2018.pdf). In Proceedings of the 8th international conference on web intelligence, mining and semantics (pp. 1-8).
+
 Brezočnik, L., Fister, I., Podgorelec, V. (2018). [Scrum Task Allocation Based on Particle Swarm Optimization](https://github.com/firefly-cpp/conference-presentations/blob/main/BIOMA2018_Brezocnik.pdf). In: Korošec, P., Melab, N., Talbi, EG. (eds) Bioinspired Optimization Methods and Their Applications. BIOMA 2018. Lecture Notes in Computer Science(), vol 10835. Springer, Cham. [[Paper](https://www.iztok-jr-fister.eu/static/publications/223.pdf)]
 
 ## 2014
