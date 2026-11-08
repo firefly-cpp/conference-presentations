@@ -82,7 +82,7 @@ Fister Jr., I. et al. "[Population-based metaheuristics for planning interval tr
 
 Angus, D., and Fister Jr., I. "[Tracking the exploration and exploitation in stochastic population-based nature-inspired algorithms using recurrence plots](https://github.com/firefly-cpp/conference-presentations/blob/main/SEMCCO_2019.pdf)." Swarm, Evolutionary, and Memetic Computing and Fuzzy and Neural Computing: 7th International Conference, SEMCCO 2019, and 5th International Conference, FANCCO 2019, Maribor, Slovenia, July 10–12, 2019, Revised Selected Papers 7. Springer International Publishing, 2020. [[Paper](https://www.iztok-jr-fister.eu/static/publications/256.pdf)]
 
-Dušan Fister, Iztok Fister Jr. "[Razvoj spletnih aplikacij v ogrodju Yesod](https://github.com/firefly-cpp/conference-presentations/blob/main/IZTOK_OTS2019.pdf)." In: Sodobne informacijske tehnologije in storitve: OTS 2019: zbornik štiriindvajsete konference, Maribor, 18. in 19. junij 2019. 1. izd. Maribor: Univerzitetna založba Univerze, 2019. pp. 219-228. [[Paper](https://www.iztok.link/static/publications/256.pdf)]
+Dušan Fister, Iztok Fister Jr. "[Razvoj spletnih aplikacij v ogrodju Yesod](https://github.com/firefly-cpp/conference-presentations/blob/main/IZTOK_OTS2019.pdf)." In: Sodobne informacijske tehnologije in storitve: OTS 2019: zbornik štiriindvajsete konference, Maribor, 18. in 19. junij 2019. 1. izd. Maribor: Univerzitetna založba Univerze, 2019. pp. 219-228. [[Paper](https://www.iztok.link/static/publications/241.pdf)]
 
 ## 2018
 
