@@ -127,6 +127,7 @@ Material in this folder is licensed under a
 
 
 
+
 # Thumbnails
 [![SEMCCO_2019](/image_thumbnails/pdf_animation_SEMCCO_2019.gif)](SEMCCO_2019.pdf)
 [![SAMI_2026](/image_thumbnails/pdf_animation_SAMI_2026.gif)](SAMI_2026.pdf)
